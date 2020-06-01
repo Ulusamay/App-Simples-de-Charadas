@@ -1,2 +1,2 @@
-# App simples de charadas via API Desenvolvida em Python
+# App simples de charadas via API Desenvolvida em Python kkk
 ![AppDemonstracao](https://github.com/Ulusamay/App-Simples-de-Charadas/blob/master/charadagif.gif)
